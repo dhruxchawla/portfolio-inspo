@@ -1,0 +1,11 @@
+{
+  "name": "aarusportfolio-main",
+  "version": "1.0.0",
+  "description": "## 📝 Description A personal website showcasing my portfolio, skills, and experiences.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
